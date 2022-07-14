@@ -1,0 +1,302 @@
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.product-more_photo {
+  padding: 10px 0;
+}
+
+.product-more_photo img {
+  -o-object-fit: contain;
+     object-fit: contain;
+  width: 100%;
+  height: 300px;
+}
+
+.product-more_text {
+  font-size: 20px;
+}
+
+.product-more_text ul {
+  list-style-type: none;
+}
+
+.product-more_text ul li {
+  margin-bottom: 10px;
+}
+
+.user-cart_block {
+  height: 250px;
+  border: 1px solid #0b82f7;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.user-cart_photo img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.user-cart_text {
+  font-size: 20px;
+}
+
+.user-cart_text_paragraph {
+  font-size: 16px;
+}
+
+.card-img_wrap {
+  padding: 10px 0;
+}
+
+.card-img_wrap img {
+  width: 100%;
+  max-height: 150px;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.about-us_text {
+  text-indent: 1.5em;
+  line-height: 1.5;
+  font-size: 22px;
+  text-align: justify;
+  margin-top: 15px;
+}
+
+.about-us_img {
+  margin-top: 25px;
+  text-align: center;
+}
+
+.catalog-page {
+  padding-bottom: 50px;
+}
+
+.catalog-brand {
+  border: 1px solid #0b82f7;
+  margin-right: 15px;
+}
+
+.catalog-brand a {
+  text-decoration: none;
+}
+
+.catalog-brand:hover {
+  border: 1px solid #ff6500;
+}
+
+.catalog-brand img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.catalog-brand_name {
+  text-align: center;
+  font-size: 25px;
+}
+
+.catalog-brand_name:hover {
+  color: #ff6500;
+}
+
+.navbar {
+  padding-right: 0;
+}
+
+.footer {
+  height: 210px;
+  color: white;
+  padding: 15px 0;
+  background-color: #20272c;
+}
+
+.footer-logo {
+  padding: 5px 0;
+}
+
+.footer-logo img {
+  max-height: 125px;
+}
+
+.footer-navbar a {
+  font-size: 20px;
+  color: white;
+}
+
+.footer-phone {
+  font-size: 30px;
+  margin-left: 20px;
+  color: #ff6500;
+}
+
+.footer-copyright {
+  padding-top: 20px;
+}
+
+.footer-social a {
+  padding: 0 5px;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+}
+
+h1,
+h2,
+h3 {
+  margin-bottom: 20px;
+}
+
+section {
+  padding: 20px 0;
+}
+
+.no-footer {
+  min-height: calc(100vh - 210px);
+}
+
+.paginate {
+  margin-top: 20px;
+}
+
+.main-button {
+  background-color: #ff6500;
+  border: none;
+  color: white;
+  padding: 5px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+.main-button:hover {
+  background-color: #db5700;
+}
+
+.cart-count {
+  display: inline-block;
+  background: #ff6500;
+  color: white;
+  line-height: 0;
+  border-radius: 50%;
+  font-size: 14px;
+}
+
+.cart-count span {
+  display: inline-block;
+  padding-top: 50%;
+  padding-bottom: 50%;
+  margin-left: 6px;
+  margin-right: 6px;
+}
+
+.form-btn_send {
+  background-color: #0b82f7;
+  border: none;
+  color: white;
+  padding: 5px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+.form-panel {
+  border: 1px solid #0b82f7;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+label {
+  font-size: 18px;
+}
+
+.auth-form {
+  border: 1px solid #0b82f7;
+  border-radius: 10px;
+  padding: 25px;
+}
+
+.top_info {
+  background-color: #ff6500;
+  padding: 10px 0;
+}
+
+.top_info p {
+  color: #ffffff;
+  margin-right: 20px;
+}
+
+.header {
+  background-color: #364149;
+}
+
+.header-logo {
+  padding: 10px 0;
+}
+
+.header-logo img {
+  max-height: 100px;
+}
+
+.menu {
+  background-color: #0b82f7;
+  padding: 5px 0;
+  margin-bottom: 30px;
+}
+
+.menu a {
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.menu a:hover {
+  color: #ff6500;
+}
+
+.slider {
+  margin-bottom: 30px;
+}
+
+.slider .carousel-item {
+  height: 500px;
+}
+
+.slider .carousel-item img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 100%;
+  height: 500px;
+}
+
+.feedback-form {
+  padding: 25px 0;
+  background-color: #0b82f7;
+  color: #ffffff;
+}
+
+.feedback-form h2 {
+  text-align: center;
+}
+
+.brand-block {
+  width: 200px;
+}
+
+.brand-block img {
+  -o-object-fit: contain;
+     object-fit: contain;
+  width: 100%;
+  height: 100px;
+}
+

@@ -1,0 +1,33 @@
+.catalog-page {
+  padding-bottom: 50px;
+}
+
+.catalog-brand {
+  border: 1px solid #0b82f7;
+  margin-right: 15px;
+}
+
+.catalog-brand a {
+  text-decoration: none;
+}
+
+.catalog-brand:hover {
+  border: 1px solid #ff6500;
+}
+
+.catalog-brand img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.catalog-brand_name {
+  text-align: center;
+  font-size: 25px;
+}
+
+.catalog-brand_name:hover {
+  color: #ff6500;
+}
+

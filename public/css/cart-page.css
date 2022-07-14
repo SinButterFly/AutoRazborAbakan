@@ -1,0 +1,22 @@
+.user-cart_block {
+  height: 250px;
+  border: 1px solid #0b82f7;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.user-cart_photo img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.user-cart_text {
+  font-size: 20px;
+}
+
+.user-cart_text_paragraph {
+  font-size: 16px;
+}
+

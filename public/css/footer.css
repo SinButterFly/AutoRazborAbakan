@@ -1,0 +1,38 @@
+.navbar {
+  padding-right: 0;
+}
+
+.footer {
+  height: 210px;
+  color: white;
+  padding: 15px 0;
+  background-color: #20272c;
+}
+
+.footer-logo {
+  padding: 5px 0;
+}
+
+.footer-logo img {
+  max-height: 125px;
+}
+
+.footer-navbar a {
+  font-size: 20px;
+  color: white;
+}
+
+.footer-phone {
+  font-size: 30px;
+  margin-left: 20px;
+  color: #ff6500;
+}
+
+.footer-copyright {
+  padding-top: 20px;
+}
+
+.footer-social a {
+  padding: 0 5px;
+}
+

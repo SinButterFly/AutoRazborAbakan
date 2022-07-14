@@ -1,0 +1,4 @@
+Локальный проект
+база данных: avtorazbor-abakan
+Админ панель: логин - admin, пароль - admin
+Почта для обратной связи: логин - avtorazborabakan@gmail.com, пароль - INFINITY2021
